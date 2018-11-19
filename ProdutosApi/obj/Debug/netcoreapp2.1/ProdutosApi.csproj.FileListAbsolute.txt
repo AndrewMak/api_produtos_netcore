@@ -1,0 +1,15 @@
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.csproj.CoreCompileInputs.cache
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.AssemblyInfoInputs.cache
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.AssemblyInfo.cs
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\bin\Debug\netcoreapp2.1\ProdutosApi.deps.json
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\bin\Debug\netcoreapp2.1\ProdutosApi.runtimeconfig.json
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\bin\Debug\netcoreapp2.1\ProdutosApi.runtimeconfig.dev.json
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\bin\Debug\netcoreapp2.1\ProdutosApi.dll
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\bin\Debug\netcoreapp2.1\ProdutosApi.pdb
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.csprojAssemblyReference.cache
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.RazorAssemblyInfo.cache
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.RazorAssemblyInfo.cs
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.RazorTargetAssemblyInfo.cache
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.dll
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\ProdutosApi.pdb
+d:\Users\anmak.I4PROINFO\Documents\Visual Studio 2017\Projects\ProdutosApi\ProdutosApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
